@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dapp-Explorer/static/css/main.0b9e3bad.chunk.css",
+    "main.js": "/Dapp-Explorer/static/js/main.feba7237.chunk.js",
+    "main.js.map": "/Dapp-Explorer/static/js/main.feba7237.chunk.js.map",
+    "runtime-main.js": "/Dapp-Explorer/static/js/runtime-main.e213f761.js",
+    "runtime-main.js.map": "/Dapp-Explorer/static/js/runtime-main.e213f761.js.map",
+    "static/js/2.adb3520f.chunk.js": "/Dapp-Explorer/static/js/2.adb3520f.chunk.js",
+    "static/js/2.adb3520f.chunk.js.map": "/Dapp-Explorer/static/js/2.adb3520f.chunk.js.map",
+    "index.html": "/Dapp-Explorer/index.html",
+    "precache-manifest.f00677f658309427c0cf1edfeac46ddd.js": "/Dapp-Explorer/precache-manifest.f00677f658309427c0cf1edfeac46ddd.js",
+    "service-worker.js": "/Dapp-Explorer/service-worker.js",
+    "static/css/main.0b9e3bad.chunk.css.map": "/Dapp-Explorer/static/css/main.0b9e3bad.chunk.css.map",
+    "static/js/2.adb3520f.chunk.js.LICENSE.txt": "/Dapp-Explorer/static/js/2.adb3520f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e213f761.js",
+    "static/js/2.adb3520f.chunk.js",
+    "static/css/main.0b9e3bad.chunk.css",
+    "static/js/main.feba7237.chunk.js"
+  ]
+}
